@@ -1,0 +1,7 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "search.exclude": {
+        "**/.env": true,
+        "**/.env.*": true
+    }
+}
