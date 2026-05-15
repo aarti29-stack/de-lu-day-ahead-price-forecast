@@ -1,8 +1,5 @@
 # Pipeline Notes (What, Where, Why)
 
-I wrote this file in simple language, in my own voice.
-I use it as side-by-side notes while reading the code in src/.
-
 ## 1) Configuration and Secrets
 - File: src/config.py
 - What I do: I load ENTSOE_API_KEY from .env.
